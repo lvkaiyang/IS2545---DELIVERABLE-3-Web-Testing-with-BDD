@@ -4,7 +4,7 @@ In this deliverable, I confronted with some problems. First, when I used htmluni
 Following are my stories and scenarioes:
 
 
-Story #1
+Story #1/r
 As a visitor
 I would like to shop without logging in
 So that less personal information will be provided due to privacy.
